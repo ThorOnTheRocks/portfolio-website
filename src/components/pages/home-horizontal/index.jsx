@@ -38,9 +38,8 @@ const EdinaHorizontal = () => {
     <div className={`home-light ${isDark ? "theme-dark" : ""}`}>
       {/* Start Dark & Light Mode Swicher  */}
       <label
-        className={`theme-switcher-label horizontal d-flex  ${
-          isDark ? "active" : ""
-        }`}
+        className={`theme-switcher-label horizontal d-flex  ${isDark ? "active" : ""
+          }`}
       >
         <input
           type="checkbox"

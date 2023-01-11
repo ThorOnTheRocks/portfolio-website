@@ -67,7 +67,7 @@ const About = () => {
               <div
                 className="main"
                 style={{
-                  backgroundImage: "url(img/about/2.jpg)",
+                  backgroundImage: "url(img/about/2.jpg)"
                 }}
                 data-aos="fade-left"
                 data-aos-duration="1200"

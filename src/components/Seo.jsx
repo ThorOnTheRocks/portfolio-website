@@ -5,18 +5,17 @@ const Seo = ({ pageTitle, font }) => (
     <Head>
       <title>
         {pageTitle &&
-          `${pageTitle} || Edina - Personal Portfolio React NextJS Template}`}
+          `${pageTitle} || Personal Portfolio `}
       </title>
       <meta httpEquiv="x-ua-compatible" content="ie=edge" />
       <meta
         name="keywords"
-        content="	cv, portfolio, react nextjs portfolio, resume"
+        content="	cv, portfolio, react nextjs portfolio, resume, gianluca galota, frontend developer"
       />
       <meta
         name="description"
-        content="Edian - Personal Portfolio React NextJS Template"
+        content="Personal Portfolio Frontend React Developer"
       />
-      <meta name="ibthemes" content="ATFN" />
       <meta
         name="viewport"
         content="width=device-width, initial-scale=1, shrink-to-fit=no"

@@ -5,7 +5,7 @@ import HomeHorizontal from "../components/pages/home-horizontal";
 const index = () => {
   return (
     <>
-      <Seo pageTitle="Home Horizontal" />
+      <Seo pageTitle="Home" />
       <HomeHorizontal />
     </>
   );

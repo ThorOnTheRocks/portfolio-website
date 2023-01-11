@@ -3,13 +3,13 @@ import Social from "../Social";
 import ReactTyped from "react-typed";
 import Image from "next/image";
 import shapeImage from "../../public/img/hero/1.jpg";
-import heroImage from "../../public/img/hero/2.jpg";
+import heroImage from "../../public/img/hero/IMG-WA0065-profile.jpg";
 
 const heroContent = {
   shapeImage: shapeImage,
   heroImage: heroImage,
-  name: "Rokers Nelson",
-  description: `I'm a Freelancer Front-end React Developer based In USA, over 6 years of
+  name: "Gianluca Galota",
+  description: `I'm a Freelancer Front-end React Developer based In Spain with over 2 years of
   professional experience.`,
 };
 
